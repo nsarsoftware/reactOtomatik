@@ -1,3 +1,4 @@
 <resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">PvhHf-OcbizVFIONu017eT2nTtwGS1_2HU9IE</string>
     <string name="app_name">reactOtomatik</string>
 </resources>
